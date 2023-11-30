@@ -1,4 +1,4 @@
-# Avaliação 21/09/2023
+# Avaliação 30/11/2023
 > 2ª Avaliação da matéria Programação I lecionada pelo Prof. Dr. Wagner Kirmse Caldas
 > 
 > Questão 1: 7 pontos | Nota: 7
